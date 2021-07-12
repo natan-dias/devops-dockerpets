@@ -1,8 +1,8 @@
 [![Build status](https://dev.azure.com/natan-dias/Desafio%20-%20Agility/_apis/build/status/Desafio%20-%20Agility-Docker)](https://dev.azure.com/natan-dias/Desafio%20-%20Agility/_build/latest?definitionId=10) ![Release](https://vsrm.dev.azure.com/natan-dias/_apis/public/Release/badge/5d37c8e4-0faf-40c6-85d6-df1c129089a1/1/1)
 
-# Desafio Agility
+# Exemplo de GitOps com Azure App Service
 
-Exercício para avaliação do desafio proposto pela Agility.
+Exemplo de GitOps, build e release automatizado.
 
 ## Recursos utilizados:
 
@@ -43,13 +43,4 @@ No Azure foi criado um Web App Container Service, com um link para o repositóri
 
 ![image.png](/.attachments/image-43f85ce0-b0d5-40ed-8f19-6144bf26fa91.png)
 
-## Aplicação
-
-A aplicação está publicada na URL:
-
-> https://docker-pets.azurewebsites.net/
-
-Repositório da aplicação:
-
-> https://github.com/natan-dias/docker-pets
 
